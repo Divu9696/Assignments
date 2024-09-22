@@ -1,4 +1,4 @@
 # Assignments
 This is my Assignments Repo.
 <br>
-Author - Divyanshu Singh
+Author - Divyanshu Singh Rajput
